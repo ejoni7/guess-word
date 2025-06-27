@@ -8,3 +8,4 @@ print(result2)
 
 result3 = ["_" for i in word]
 print(result3) 
+print('*******************')
