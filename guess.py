@@ -6,7 +6,7 @@ for i in word:
     result2.append('_')
 print(result2)    
 
-
+print('==========')
 
 
 
